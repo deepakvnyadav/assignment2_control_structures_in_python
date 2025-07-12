@@ -16,5 +16,8 @@ This repository contains two Python scripts as part of Assignment 2 for Module 3
 - when it start (1 to 50)
 -1 and 50 is ignored sum is number is 2 to 49 is wrong method
 -to implement the code sum of number (0 to 51) pyhton sum of the number 1 to 50 and give the answer = 1275
+ - ### Run:
 
+  task2.py
+  '''bash
 
